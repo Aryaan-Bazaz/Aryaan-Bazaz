@@ -1,8 +1,8 @@
 
-# Hey there! I'm Aryaan Bazaz 👋
+# Hey there! I'm Aryaan Bazaz
 
 Welcome to my GitHub profile!  
-I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, diving deep into Machine Learning, LLMs, and Systems Programming. I love building scalable AI solutions and pushing the boundaries of what's possible with tech.
+I'm a passionate Computer Science & Economics undergrad at IIIT-Delhi, diving deep into Machine Learning, LLMs, and Systems Programming. I love building scalable AI solutions and pushing the boundaries of what's possible with tech.I use my analytical skills to explore new domains and find out of the box solutions for all the problems that I come across.
 
 ---
 
