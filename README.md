@@ -112,8 +112,8 @@ I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, div
 
 ## 📚 Education
 
-**B.Tech (CSE + Social Sciences)** @ IIIT Delhi  
-CGPA: 8.48 (Till 5th semester)
+**B.Tech (CSE + Social Sciences(Economics))** @ IIIT Delhi  
+CGPA: 8.86 
 
 ---
 
