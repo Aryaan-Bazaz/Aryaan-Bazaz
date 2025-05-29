@@ -13,18 +13,50 @@ I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, div
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
 
-### Tools & Frameworks:
+
+### Tools & Platforms:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-3776AB?style=flat)
+![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+
+### Frameworks & Libraries:
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![NetworkX](https://img.shields.io/badge/-NetworkX-00AEEF?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-3B3B98?style=flat)
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat)
+![SimPy](https://img.shields.io/badge/-SimPy-3776AB?style=flat)
 
 ---
 
-## 📊 Domains of Interest
+## 📊 Domains & Specializations:
+![Natural Language Processing](https://img.shields.io/badge/-Natural%20Language%20Processing-8E44AD?style=flat)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-27AE60?style=flat)
+![Statistical Modeling](https://img.shields.io/badge/-Statistical%20Modeling-2980B9?style=flat)
+![Data Structures & Algorithms](https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-D35400?style=flat)
+![Graph Neural Networks](https://img.shields.io/badge/-Graph%20Neural%20Networks-34495E?style=flat)
+![Database Design & Optimization](https://img.shields.io/badge/-Database%20Design%20%26%20Optimization-C0392B?style=flat)
+![Object-Oriented Programming](https://img.shields.io/badge/-Object--Oriented%20Programming-2C3E50?style=flat)
+![Operating Systems](https://img.shields.io/badge/-Operating%20Systems-16A085?style=flat)
+![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-7F8C8D?style=flat)
+![Algorithm Analysis](https://img.shields.io/badge/-Algorithm%20Analysis-E67E22?style=flat)
+![Complex Problem Solving](https://img.shields.io/badge/-Complex%20Problem%20Solving-1ABC9C?style=flat)
+
 
 - **Machine Learning**  
   Logistic Regression | Decision Trees | Random Forest | SVM
