@@ -77,6 +77,12 @@ I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, div
 
 ## 🧠 Projects
 
+### [Deception detection Using NLP](https://github.com/Aryaan-Bazaz/NLP_Deception_Detection_Project-)
+> Developed a framework utilizing RoBERTa-based Graphical Dual Attention Network with Power Dynamics (RG-DAT) surpassing state-of-the-art benchmarks, demonstrating superior accuracy and F1 score of 63.56 %.
+
+**Tech Stack**: Python, PyTorch, Hugging Face Transformer and NetworkX  
+
+
 ### [Malware Detection System](https://github.com/Aryaan-Bazaz/Malware-Detection-using-Machine-Learning)
 > ML-based detection using PE file features and custom URL vectorization  
 **Tech Stack**: Python, ML, Custom NLP Preprocessing  
@@ -90,7 +96,7 @@ I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, div
 > Reduces human effort in vivas by 60%, automated analysis and questioning using LLMs  
 **Guide**: Dr. Dhruv Kumar
 
-### [Payment Fraud Detection](https://github.com/snehaiiitd/Fraud_Prediction_GRP_24)
+### [Payment Fraud Detection]()
 > ML-based prediction system with 98% accuracy  
 **Tech Stack**: Python, Scikit-learn
 
