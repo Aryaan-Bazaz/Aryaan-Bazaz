@@ -56,6 +56,12 @@ I'm a passionate Computer Science & Social Sciences undergrad at IIIT-Delhi, div
 ![Computer Networks](https://img.shields.io/badge/-Computer%20Networks-7F8C8D?style=flat)
 ![Algorithm Analysis](https://img.shields.io/badge/-Algorithm%20Analysis-E67E22?style=flat)
 ![Complex Problem Solving](https://img.shields.io/badge/-Complex%20Problem%20Solving-1ABC9C?style=flat)
+![Econometrics](https://img.shields.io/badge/-Econometrics-2ECC71?style=flat)
+![Finance](https://img.shields.io/badge/-Finance-3498DB?style=flat)
+![Money & Banking](https://img.shields.io/badge/-Money%20%26%20Banking-9B59B6?style=flat)
+![Game Theory](https://img.shields.io/badge/-Game%20Theory-34495E?style=flat)
+![Convex Optimization](https://img.shields.io/badge/-Convex%20Optimization-E74C3C?style=flat)
+
 
 
 - **Machine Learning**  
